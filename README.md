@@ -1,1 +1,1 @@
-[profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dirk-Jake)
+![Visitor Count](https://profile-counter.glitch.me/Dirk-Jake/count.svg)
