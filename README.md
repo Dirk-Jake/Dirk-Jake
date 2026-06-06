@@ -29,6 +29,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=10&duration=3000&pause=1000&color=F7BA25&center=true&multiline=true&width=435&lines=%E2%80%9CLeave+your+bookish+malarkey+in+a+dusty+old+library+somewhere.%E2%80%9D;%E2%80%9CI+have+an+adventure+to+get+on+with!%E2%80%9D)](https://git.io/typing-svg)
 
 <p align="center">
-  <sub><a href="https://applepiexdd.atabook.org/">ATABook</a></sub><br/>
+ <sub><a href="https://applepiexdd.atabook.org/">ATABook</a></sub><br/>
+
+<p align="center">
+  <sub><a href=
+"https://en.pronouns.page/@applepiexdd">Pronoun page</a></sub><br/>
 
 <img width="600" height="90" alt="Untitled656_20260520181043" src="https://github.com/user-attachments/assets/7e5cb056-0630-4bbe-bfa5-441182984b93" />
